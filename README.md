@@ -243,7 +243,7 @@ The implementation was tested across all four customer lifecycle scenarios:
 
 Demo video:
 
-**Loom:** [Add Loom link here]
+**Loom:** https://www.loom.com/share/ccadd8d9112d4ad982deb727a89879e2
 
 ## Notes
 
