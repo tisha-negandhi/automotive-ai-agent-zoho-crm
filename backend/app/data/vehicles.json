@@ -1,0 +1,20 @@
+{
+  "Thar": {
+    "variants": ["AX", "LX"],
+    "fuel_types": ["Petrol", "Diesel"],
+    "demo_price_from": "₹11.50 lakh",
+    "note": "Demo assessment data. Not live pricing."
+  },
+  "XUV700": {
+    "variants": ["MX", "AX5", "AX7"],
+    "fuel_types": ["Petrol", "Diesel"],
+    "demo_price_from": "₹14.00 lakh",
+    "note": "Demo assessment data. Not live pricing."
+  },
+  "Scorpio-N": {
+    "variants": ["Z2", "Z4", "Z6", "Z8", "Z8L"],
+    "fuel_types": ["Petrol", "Diesel"],
+    "demo_price_from": "₹13.50 lakh",
+    "note": "Demo assessment data. Not live pricing."
+  }
+}
